@@ -8,11 +8,11 @@ export const Socials = [
     {
         url: '/Icons/github.svg',
         name: 'My Github Profile',
-        href: 'https://www.github.com/iqrarafiq12/'
+        href: 'https://github.com/iqrarafiq12'
     },
     {
         url: '/Icons/linkedin.svg',
         name: 'My Linkedin Profile',
-        href: 'https://www.instagram.com//'
+        href: 'https://www.linkedin.com/in/iqrarafiq123/'
     },
   ];
