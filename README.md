@@ -1,0 +1,8 @@
+
+## Built With
+- NEXT.JS
+- TAILWIND CSS
+- TYPESCRIPT
+- SHADCN UI
+- FRAMER MOTION
+- Vercal
