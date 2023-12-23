@@ -23,7 +23,7 @@ export default function RootLayout({
          attribute="class"
          defaultTheme="system"
          >
-        <Navbar />
+               <Navbar />
         {children}
         </ThemeProvider>
         </body>
