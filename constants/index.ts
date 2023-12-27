@@ -15,4 +15,11 @@ export const Socials = [
         name: 'My Linkedin Profile',
         href: 'https://www.linkedin.com/in/iqrarafiq123/'
     },
+    {
+      url: '/Icons/youtube.svg',
+      name: 'My Linkedin Profile',
+      href: 'https://youtube.com/@lifeywithiqra?si=J3iygbJNFJWXsEQY'
+  },
   ];
+
+  

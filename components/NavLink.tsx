@@ -3,7 +3,7 @@ import { Socials } from '@/constants';
 
 function NavLink() {
   return (
-    <div className='inline-flex items-center justify-center px-3 gap-3 py-2 '>
+    <div className='inline-flex items-center justify-center px-2 gap-3 py-1'>
       {Socials.map((social) => (
         <a 
           key={social.url} 
