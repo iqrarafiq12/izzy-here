@@ -1,6 +1,7 @@
 import React from "react";
 import Image from "next/image";
 import { Button } from "@/components/ui/button";
+import Link from "next/link";
 
 function Hero() {
   return (
@@ -22,12 +23,14 @@ function Hero() {
           dedicated to crafting elegant and user-friendly Web & App applications.
         </p>
         <div className="text-md justify-center">
+          <Link href="mailto:iqrak0128@gmail.com">
           <Button
             variant="outline"
             className="z-[1] p-4 text-black dark:text-white hover:bg-black hover:text-white dark:hover:bg-white dark:hover:text-black font-semibold hover:border-transparent"
           >
             Contact Me
           </Button>
+          </Link>
         </div>
       </div>
       

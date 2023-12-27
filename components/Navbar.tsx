@@ -1,5 +1,3 @@
-// import { NAV_LINKS } from "@/constants"
-// import { ModeToggle } from "./ui/toggle-mode";
 
 import NavLink from "./NavLink";
 import { ModeToggle } from "./ui/mode-toggle";
