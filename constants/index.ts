@@ -24,26 +24,36 @@ export const Socials = [
 
 
 export  const servicesData = [
-    {
-      image: "/Assets/s-1.png",
-      content: "Content for service 1"
-    },
-    {
-      image: "/Assets/s-2.jpg",
-      content: "Content for service 2"
-    },
-    {
-        image: "/Assets/s-3.jpg",
-        content: "Content for service 3"
-      },
-      {
-        image: "/Assets/s-4.jpg",
-        content: "Content for service 4"
-      },
-      {
-        image: "/Assets/s-5.jpg",
-        content: "Content for service 4"
-      },
+  {
+    image: "/ServiceImg/UI-UX.png",
+    content: "UI/UX Designs",
+    href: 'https://www.instagram.com/codewithiqra/'
+  },
+  {
+    image: "/ServiceImg/FronTend-Dev.png",
+    content: "Frontend Development",
+    href: 'https://www.instagram.com/codewithiqra/'
+  },
+  {
+    image: "/ServiceImg/WebApp-Dev.png",
+    content: "WebApp Development",
+    href: 'https://www.instagram.com/codewithiqra/'
+  },
+  {
+    image: "/ServiceImg/FullStack.png",
+    content: "FullStack Development",
+    href: 'https://www.instagram.com/codewithiqra/'
+  },
+  {
+    image: "/ServiceImg/ReactNative.png",
+    content: "React Native Development",
+    href: 'https://www.instagram.com/codewithiqra/'
+  },
+  {
+    image: "/ServiceImg/SocialMedia.png",
+    content: "SMM' Social Media Marketing",
+    href: 'https://www.instagram.com/codewithiqra/'
+  },
   ];
   
   

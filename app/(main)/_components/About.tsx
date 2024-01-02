@@ -25,12 +25,15 @@ const About = () => {
           <br />
           <br />
           Venturing into the realm of social media, I have established myself as
-          a content creator, actively growing my channel and crafting content to
-          benefit aspiring developers. My primary objectives encompass both
-          personal and collective growth: I am determined to amplify my skill
-          set, collaborate with leading companies to gain invaluable experience,
-          and most importantly, extend my support to individuals navigating
-          challenges in their careers.
+          a content creator, actively growing my YouTube channel where I share
+          insights, tutorials, and tips related to web development and
+          programming. Additionally, I actively engage with my audience across
+          various social media platforms, crafting content to benefit aspiring
+          developers and sharing my experiences in the tech industry. My primary
+          objectives encompass both personal and collective growth: I am
+          determined to amplify my skill set, collaborate with leading companies
+          to gain invaluable experience, and most importantly, extend my support
+          to individuals navigating challenges in their careers.
           <br />
           <br />
           In terms of technical proficiency, I am well-versed in a myriad of
